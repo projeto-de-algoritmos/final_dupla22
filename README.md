@@ -42,9 +42,9 @@ g++ -o out codigo_fonte.cpp
 
 ```
 
-## Outros 
+## Vídeo 
 
-Veredito ACC em todos os exercícios .
+[Vídeo de apresentação](https://youtu.be/H139sxOvkso)
 
 
 
